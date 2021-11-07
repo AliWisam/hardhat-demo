@@ -10,9 +10,9 @@ task("accounts", "Prints the list of accounts", async (taskArgs, hre) => {
   }
 });
 
-task("foobar", "My Custom Task", async () => {
-    console.log("My Custom Task");
-});
+// task("foobar", "My Custom Task", async () => {
+//     console.log("My Custom Task");
+// });
 
 
 // You need to export an object to set up your config
